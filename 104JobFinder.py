@@ -206,13 +206,7 @@ def find_job(url_original, search_input, search_condition, search_order, job_num
     del all_job_datas[:]
 
     df.to_csv(fn, index=False, encoding="utf_8_sig")
-    """
-    #with open(fn, 'w', newline='', encoding="utf_8_sig") as csvFile:  # 定義CSV的寫入檔,並且每次寫入完會換下一行
-        dictWriter = csv.DictWriter(csvFile, fieldnames=columns_name)  # 定義寫入器
-        dictWriter.writeheader()
-        for data in all_job_datas:
-            dictWriter.writerow(data)
-    """
+
 
     return df_selected, df
 
