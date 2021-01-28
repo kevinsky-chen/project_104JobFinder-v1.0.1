@@ -1,0 +1,9 @@
+bs4==0.0.1
+cachetools==4.2.1
+decorator==4.4.2
+pandas==1.2.1
+requests==2.25.1
+selenium==3.141.0
+streamlit==0.75.0
+toml==0.10.2
+
