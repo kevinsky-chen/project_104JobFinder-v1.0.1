@@ -2,8 +2,8 @@
 
 The web app was built in Python using the following libraries:
 
-streamlit
-pandas
-numpy
-scikit-learn
-pickle
+-Streamlit
+-Pandas
+-Numpy
+-BeautifulSoup
+-PIL
