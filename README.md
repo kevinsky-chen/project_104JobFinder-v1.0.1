@@ -15,7 +15,8 @@ Check out the deployed web app at https://kevinsky-104jobfinder-v1.herokuapp.com
 
 <Instructions>
 ## Home Page:
-![image](https://user-images.githubusercontent.com/56266480/109395256-6864e580-7966-11eb-9f1c-a10f871ce4ec.png)
+![image](https://user-images.githubusercontent.com/56266480/109395325-b8dc4300-7966-11eb-91cb-df014fe8423d.png)
+
   
 ## Search Result:
 ![image](https://user-images.githubusercontent.com/56266480/109395304-99ddb100-7966-11eb-89f8-9eb9660a31e8.png)
